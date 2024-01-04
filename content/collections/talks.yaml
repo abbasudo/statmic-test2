@@ -1,0 +1,12 @@
+title: Talks
+template: talks/show
+layout: layout
+mount: 70dee905-f5f5-4ce2-9d79-ddf27c334254
+revisions: false
+slugs: false
+date: true
+sort_dir: desc
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'

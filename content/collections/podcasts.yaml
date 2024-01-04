@@ -1,0 +1,12 @@
+title: Podcasts
+template: podcasts/index
+layout: layout
+mount: bb30ca9b-e377-4c5b-8fdd-9392b5f3e16d
+revisions: false
+slugs: false
+date: true
+sort_dir: desc
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
